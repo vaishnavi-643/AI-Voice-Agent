@@ -56,7 +56,7 @@ emerald-heights-voice-agent/
 While this working prototype uses a local hardware audio interface (sounddevice) and a WebSocket-powered web dashboard as requested, the full production architecture detailing how to scale this into live carrier phone calls using Twilio Media Streams is fully documented in TELEPHONY.md. 
   
 ### 🎥 Project Demo Video
-👉 [Watch AI Voice Agent Demo]([APNA_GOOGLE_DRIVE_LINK_YAHAN_PASTE_KREIN](https://drive.google.com/file/d/1cLOoi1rGNYr-noYbsRR1Vbtb2d4G4tZH/view?usp=sharing))
+👉 [Watch AI Voice Agent Demo]( https://drive.google.com/file/d/1cLOoi1rGNYr-noYbsRR1Vbtb2d4G4tZH/view?usp=sharing )
 
 THANK YOU
 Vaishnavi Verma
